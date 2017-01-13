@@ -23,6 +23,8 @@ gem 'coffee-rails', '~> 4.2'
 
 #Boostrap gem
 gem 'bootstrap-sass', '3.3.6'
+#Pcrypt for password
+gem 'bcrypt',         '3.1.11'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
